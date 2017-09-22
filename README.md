@@ -1,4 +1,40 @@
 # 20Time-ICS4U
 ICS4U starter page
 
+Logs
+
+September 8th, 2017:
+------------------------------------------------------------------------------------------------------------------------------------------
+  Today I did the initial brainstorming and created the cover of my webcomic. I have decided to name it "Kiran",
+  after a coding language I've made up.
+  
+    The main idea of the story is that our protagonist (no name yet) has enrolled in
+    a computer science course to learn "Kiran". The projects given to him in class seem very weird, but no one else has
+    a problem with them and just continue coding. He later finds out that the coding they are doing seems very familliar
+    to that of a criminal on the loose, and that his teacher has been making them program scripts which uncover government information.
+    His teacher turns out to be the sidekick of a druglord who has never been caught; a criminal who sells krokidil illegally, which can
+    be a very lethal and harmful drug. 
+    
+  Perhaps I can make it so that the drug has been the cause of many strange deaths in the tristate area, and it's up to our protagonist
+  to finally put an end to this. Maybe he can reverse the code somehow in order to make it reveal information about the location of
+  the cartel, or where they may strike next.
+
+September 10th, 2017:
+------------------------------------------------------------------------------------------------------------------------------------------
+  The very first pannel of my comic was completed today. I have decided to try and make one pannel minimun per day, so by the end of the
+  semester I will have a couple of chapters. I don't intend on this web comic being very long, more of a short story type thing.
+   
+  I have also decided on names for some of the characters, which can be found on my *brainstorming* md.
+   
+September 12th, 2017:
+------------------------------------------------------------------------------------------------------------------------------------------
+  I've realized that i enjoy both writing and drawing, so I'm changing my project up a little bit to include both a written narrative and pictures. I have taken the idea from another web story I read online. I'm also doing this because it will be much easier to work on it in class since I don't need any of my art stuff.
+  
+September 21st , 2017:
+------------------------------------------------------------------------------------------------------------------------------------------
+I've started writing the first chapter of the story. I have also decided that with the help of HTML (and CSS), perhaps later on in the course, or when I learn more advanced things in CSS so that I can make better looking websites, I can make my own website for my story For now, I'm going to create a new file on my 20Time repo and work on my story from there.
+
+Setpember __ , 2017
+------------------------------------------------------------------------------------------------------------------------------------------
+
 

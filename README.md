@@ -34,7 +34,8 @@ September 21st , 2017:
 ------------------------------------------------------------------------------------------------------------------------------------------
 I've started writing the first chapter of the story. I have also decided that with the help of HTML (and CSS), perhaps later on in the course, or when I learn more advanced things in CSS so that I can make better looking websites, I can make my own website for my story For now, I'm going to create a new file on my 20Time repo and work on my story from there.
 
-Setpember __ , 2017
+Setpember 29th , 2017
 ------------------------------------------------------------------------------------------------------------------------------------------
+I've begun to use and expirament on Bracket in order to make my HTML website for my story. So far I have the cover page down, and am trying to learn how to make it the background of the website. I've also added a bit more to my story today.
 
 

@@ -38,4 +38,6 @@ Setpember 29th , 2017
 ------------------------------------------------------------------------------------------------------------------------------------------
 I've begun to use and expirament on Bracket in order to make my HTML website for my story. So far I have the cover page down, and am trying to learn how to make it the background of the website. I've also added a bit more to my story today.
 
-
+October 8th , 2017
+------------------------------------------------------------------------------------------------------------------------------------------
+I started the first drawing for the story (other than the cover of course), which depicts Kinai in class with his friend, Dyrian.

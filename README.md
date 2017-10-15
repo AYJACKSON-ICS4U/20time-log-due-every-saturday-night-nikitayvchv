@@ -41,3 +41,7 @@ I've begun to use and expirament on Bracket in order to make my HTML website for
 October 8th , 2017
 ------------------------------------------------------------------------------------------------------------------------------------------
 I started the first drawing for the story (other than the cover of course), which depicts Kinai in class with his friend, Dyrian.
+
+October 15th , 2017
+------------------------------------------------------------------------------------------------------------------------------------------
+The more and more I work on this project, the more I start to wonder if it's something I really want to do. I was very interested in my friend Anees's project, where he's making a game, and I saw a lot of the pixel art that went into making it. I think that there is a chance that I may change my project and decide to work on a game instead. I think that it may interest me more. Although I like writing, I find the coding part of the project more enjoyable than the writing.

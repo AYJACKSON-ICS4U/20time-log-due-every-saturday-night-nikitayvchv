@@ -45,3 +45,10 @@ I started the first drawing for the story (other than the cover of course), whic
 October 15th , 2017
 ------------------------------------------------------------------------------------------------------------------------------------------
 The more and more I work on this project, the more I start to wonder if it's something I really want to do. I was very interested in my friend Anees's project, where he's making a game, and I saw a lot of the pixel art that went into making it. I think that there is a chance that I may change my project and decide to work on a game instead. I think that it may interest me more. Although I like writing, I find the coding part of the project more enjoyable than the writing.
+
+October 17th , 2017
+------------------------------------------------------------------------------------------------------------------------------------------
+I have now designed the main character for my game. He doesn't have a name yet, but I think he's pretty cute. I'm slowly learning how to
+draw with pixel art on the website [Piskel](https://www.piskelapp.com/). Here is his walking animation (sorry for the lag, the animation is much, much faster than that):
+
+![Imgur](https://i.imgur.com/GG0aOvv.gif "Character")

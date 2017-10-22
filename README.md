@@ -52,3 +52,7 @@ I have now designed the main character for my game. He doesn't have a name yet, 
 draw with pixel art on the website [Piskel](https://www.piskelapp.com/). Here is his walking animation (sorry for the lag, the animation is much, much faster than that):
 
 ![Imgur](https://i.imgur.com/GG0aOvv.gif "Character")
+
+October 21st , 2017
+------------------------------------------------------------------------------------------------------------------------------------------
+I've begun the code for my game, using brackets. I think I'm going to stick to the main character still being named Kinai, because I really like that name. So far I think my game will be about a man's journey to becomming an all powerful being. I don't know the tiny details, but I'll figure that out once I actually begin to get a hang of coding movements and interactions with other elements in the game.

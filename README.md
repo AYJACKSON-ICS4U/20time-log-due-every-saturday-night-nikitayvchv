@@ -56,3 +56,7 @@ draw with pixel art on the website [Piskel](https://www.piskelapp.com/). Here is
 October 21st , 2017
 ------------------------------------------------------------------------------------------------------------------------------------------
 I've begun the code for my game, using brackets. I think I'm going to stick to the main character still being named Kinai, because I really like that name. So far I think my game will be about a man's journey to becomming an all powerful being. I don't know the tiny details, but I'll figure that out once I actually begin to get a hang of coding movements and interactions with other elements in the game.
+
+October 27th , 2017
+------------------------------------------------------------------------------------------------------------------------------------------
+I ran into a few problems today while I was using Daniel Shiffman's code as reference. For some reason p5 doesn't register when I use keyboard inputs, so I'm going to have to work this issue out before I can continue.

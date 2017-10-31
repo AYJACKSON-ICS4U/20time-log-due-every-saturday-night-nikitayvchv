@@ -51,7 +51,7 @@ October 17th , 2017
 I have now designed the main character for my game. He doesn't have a name yet, but I think he's pretty cute. I'm slowly learning how to
 draw with pixel art on the website [Piskel](https://www.piskelapp.com/). Here is his walking animation (sorry for the lag, the animation is much, much faster than that):
 
-![Imgur](https://i.imgur.com/GG0aOvv.gif "Character")
+![Imgur](https://i.imgur.com/eucKGO1.gif "Character")
 
 October 21st , 2017
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -60,3 +60,7 @@ I've begun the code for my game, using brackets. I think I'm going to stick to t
 October 27th , 2017
 ------------------------------------------------------------------------------------------------------------------------------------------
 I ran into a few problems today while I was using Daniel Shiffman's code as reference. For some reason p5 doesn't register when I use keyboard inputs, so I'm going to have to work this issue out before I can continue.
+
+October 31st , 2017
+------------------------------------------------------------------------------------------------------------------------------------------
+I was able to figure out the movement AND make it better! Iv'e made it so that the character moves in that direction until the key is released instead of only once per key press. I haven't been able to get the image to load inside of the canvas, so I think i'm going to code the game without it for now.

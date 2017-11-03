@@ -64,3 +64,9 @@ I ran into a few problems today while I was using Daniel Shiffman's code as refe
 October 31st , 2017
 ------------------------------------------------------------------------------------------------------------------------------------------
 I was able to figure out the movement AND make it better! Iv'e made it so that the character moves in that direction until the key is released instead of only once per key press. I haven't been able to get the image to load inside of the canvas, so I think i'm going to code the game without it for now.
+
+November 3rd, 2017
+------------------------------------------------------------------------------------------------------------------------------------------
+I've begun to re-update my own repo for all of my work on the project. I need to improve my workflow, and I realise I have neglected my other repo until now. Any changes to the code and projects will be on there. 
+
+[Here's a link](https://github.com/nikitayvchv/20TimeProject)

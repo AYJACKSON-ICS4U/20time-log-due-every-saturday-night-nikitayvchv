@@ -70,3 +70,7 @@ November 3rd, 2017
 I've begun to re-update my own repo for all of my work on the project. I need to improve my workflow, and I realise I have neglected my other repo until now. Any changes to the code and projects will be on there. 
 
 [Here's a link](https://github.com/nikitayvchv/20TimeProject)
+
+November 13th, 2017
+------------------------------------------------------------------------------------------------------------------------------------------
+Added gravity and jumping into my game. The triangle can jump!

@@ -74,3 +74,7 @@ I've begun to re-update my own repo for all of my work on the project. I need to
 November 13th, 2017
 ------------------------------------------------------------------------------------------------------------------------------------------
 Added gravity and jumping into my game. The triangle can jump!
+
+November 25th, 2017
+------------------------------------------------------------------------------------------------------------------------------------------
+Worked on GitHub Pages this week - trying to find the best way to present all of my work on my GH profile. Also Installed Node.JS to help with my workflow! Helps me see changes in my code a lot better, and let's me work localy!

@@ -78,3 +78,7 @@ Added gravity and jumping into my game. The triangle can jump!
 November 25th, 2017
 ------------------------------------------------------------------------------------------------------------------------------------------
 Worked on GitHub Pages this week - trying to find the best way to present all of my work on my GH profile. Also Installed Node.JS to help with my workflow! Helps me see changes in my code a lot better, and let's me work localy!
+
+December 2nd, 2017
+------------------------------------------------------------------------------------------------------------------------------------------
+My next steps on my 20 time project are going to be to code in platforms that the character can jump over and around. I also want to make the gravity a little bit smoother in my game.

@@ -82,3 +82,13 @@ Worked on GitHub Pages this week - trying to find the best way to present all of
 December 2nd, 2017
 ------------------------------------------------------------------------------------------------------------------------------------------
 My next steps on my 20 time project are going to be to code in platforms that the character can jump over and around. I also want to make the gravity a little bit smoother in my game.
+
+December 11th, 2017
+------------------------------------------------------------------------------------------------------------------------------------------
+I've started working on my presentation in class. 
+Things I need to think about/discuss:
+1. What have I learned
+2. What can I do as my next steps/with this knowledge
+3. What was my experience (what did I have to encounter/face, what problems/solutions)
+
+I need to make a 3 minute presentation, about 15 seconds per side. I can add a gif of my program and some ideas for the story line. I can also insert all of my code for the class to see. I'll make sure to reference my logs and my github aswell, to show the different stages of the project.
